@@ -1,0 +1,11 @@
+img {
+    width: 20%;
+}
+#logo {
+    width: 15%;
+}
+.btn.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    
+}
